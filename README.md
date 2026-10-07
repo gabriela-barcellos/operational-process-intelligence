@@ -148,7 +148,7 @@ Provides an executive-level view of:
 - Process classification
 - Operational duration gaps
 
-![Executive Overview](./images/Executive_Overview.png)
+![Executive Overview](https://raw.githubusercontent.com/gabriela-barcellos/operational-process-intelligence/main/images/Executive_Overview.png)
 
 ### 2. Process Intelligence
 
