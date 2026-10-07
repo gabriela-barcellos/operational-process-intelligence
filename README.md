@@ -148,7 +148,7 @@ Provides an executive-level view of:
 - Process classification
 - Operational duration gaps
 
-![Executive Overview](https://raw.githubusercontent.com/gabriela-barcellos/operational-process-intelligence/main/images/Executive_Overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 ### 2. Process Intelligence
 
@@ -163,7 +163,7 @@ Analyzes:
 - Longest process transitions
 - Process distribution
 
-![Process Intelligence](./images/Process_Intelligence.png)
+![Process Intelligence](images/Process_Intelligence.png)
 
 ### 3. Operational Investigation
 
@@ -179,8 +179,7 @@ Focuses on:
 - Rejections
 - Long-duration cases requiring investigation
 
-![Operational Investigation](./images/Operational_Investigation.png)
-
+![Operational Investigation](images/Operational_Investigation.png)
 ## Investigation Workflow
 
 The project extends the analytical layer into an operational workflow.
